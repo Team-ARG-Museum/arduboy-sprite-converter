@@ -1,2 +1,2 @@
 # arduboy-sprite-converter
-This repository exists for archival purposes only.
+converts a sprite sheet to the arduboy format 
